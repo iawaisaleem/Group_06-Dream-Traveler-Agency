@@ -1,0 +1,272 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}
+.home{
+    background-image: url("images/Red\ Blue\ Black\ Nature\ Sea\ Palm\ Trees\ Travel\ Agency\ Banner.png");
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height : 120vh;
+    
+    
+}
+
+.content{
+    position: relative;
+    display: flex;
+    align-items:center;
+
+}
+
+nav{
+    margin-top: 90px;
+    margin-left: auto;
+    padding:20px 70px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 15px;
+    overflow-x: auto;
+    justify-content: flex-end;
+
+}
+nav a{
+          text-decoration:none;
+          margin: 20px 0px;
+          font-size: 20px;
+          padding-right: 30px;
+          font-family: 'Poppins' , sans-serif;
+          font-weight: 300;
+          cursor:pointer;
+
+}
+.logo{
+    margin-bottom: 70px;
+    width:100px;
+}
+.hero{
+    color: rgb(159, 54, 77);
+    text-align: center;
+    margin: 10px;
+    padding: 100px 20px;
+    font-size: 20px;
+    
+}
+.btn{
+    text-decoration: none;
+    margin: 20px 0px;
+    color: #fff;
+    cursor:pointer;
+    flex-shrink: 0 0 auto;
+    white-space: nowrap;
+    border-radius: 30px;
+    border-top-right-radius: 0px ;
+    background-image: linear-gradient(45deg , #df4a81, #c430d7);
+    padding : 14px 20px;
+    margin:10px;
+
+}
+.btn:hover{
+    text-decoration: underline;
+    color: rgb(129, 51, 51);
+    transform:scale(1.1)  translateY(-3px);
+
+}
+
+.girl-image{
+
+    position: absolute;
+    width: 300px;
+    bottom: 0;
+    right: 5%;  
+}
+.anim{
+
+    opacity: 0;
+    transform: translateY(30px);
+    animation: moveup 4s forwards;
+}
+@keyframes moveup{
+    to{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+main{
+    padding: 0px;
+    background-color: #f9f9f9 ;
+    min-height: 100vh;
+    margin: 0;
+}
+.About-us{
+    margin-top: 30px;
+    padding: 50px 20px;
+    text-align: center;
+    color: rgb(159, 54, 77);
+}
+.About-us h2{
+    font-size: 36px;
+}
+.About-us p{
+    padding: 20px;
+    font-family: 'Poppins';
+    font-size: 17px;
+}
+.best-agency{
+    display: flex;
+    justify-content: space-around;
+}
+.best-agency p{
+    margin: 0;
+    padding: 0;
+}
+.map {
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.Also-us{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 80px 60px;
+    background: linear-gradient( #eaf6fb, #63bddb);
+    text-align: center;
+}
+
+.Also-us Global{
+     font-family: 'Poppins', sans-serif;
+     padding: 30px;
+     text-align: center;
+}
+.Also-us h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 27px;
+    font-weight: 200;
+}
+.Also-us p {
+    font-family: 'Poppins', sans-serif;
+    color: #ffffffd5;
+}
+.foot{
+    text-align: center;
+    background-color: #f9f9f9 ;
+    display: flex;
+    flex-direction: column;
+
+}
+address{
+    align-self: flex-start;
+    margin-left: 20px;
+}
+
+
+
+@media (max-width: 790px){
+
+     *.hero-buttons{ 
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 14px;
+        padding: 0 15px;  
+        width: 50%;
+    }
+nav{
+    width: 100%;
+    justify-content: center;
+    padding: 10px;
+    gap: 12px;
+}
+
+.btn{
+    width: auto;
+    font-size: 14px;
+    padding: 10px 18px;
+}
+    .btn{
+        width: 50%;
+        max-width: 260px;
+        margin: 10px;         /* CRITICAL */
+        padding: 12px 0;
+        font-size: 12px;
+        text-align: center;
+    }
+
+
+
+
+    .logo{
+        width: 80px;
+        margin-bottom: 20px;
+    }
+
+    /* Hero text */
+    .hero{
+        text-align: center;
+        position: relative;
+        z-index: 2;
+        padding: 20px;
+    }
+    .hero h1{
+        font-size: 26px;
+    }
+
+    .hero p{
+        font-size: 14px;
+    }
+
+    .girl-image{
+        padding-top: 20px;
+        position: static;
+        width: 200px;
+        margin: 20px auto 0;
+        bottom: 0;
+        display: block;
+        flex-direction: column;
+    }
+    /* About section */
+    .About-us h2{
+        font-size: 26px;
+    }
+
+    .About-us p{
+        font-size: 15px;
+    }
+
+    /* Best agency icons */
+    .best-agency{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /* Footer */
+    .foot{
+        padding: 40px 20px;
+    }
+
+    address{
+        align-self: center;
+        text-align: center;
+    }
+
+}
+@media (max-width: 480px){
+
+    .btn{
+        padding: 6px 10px;
+        font-size: 11px;
+    }
+}
+
