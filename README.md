@@ -53,4 +53,9 @@ Excel link:https://github.com/iawaisaleem/Group_06-Dream-Traveler-Agency/blob/ma
 
 Word:
 Word was used to explain structure of website.
-Word link:
+Word link:https://github.com/iawaisaleem/Group_06-Dream-Traveler-Agency/blob/main/website%20document.docx
+
+
+Powerpoint:
+powerpoint was used to represnt website.
+powerpoint link:
