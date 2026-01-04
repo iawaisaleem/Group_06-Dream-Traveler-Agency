@@ -192,7 +192,7 @@ Future Improvements
 - [Awais Aleem](https://github.com/iawaisaleem)  
 - [Ahmed Bilal](https://github.com/AhmedBIlal207) 
 - [Ahmad Raza](https://github.com/MuhammadAhmadRazaCS58)
-- [Rana Abdullah]()
+- [Rana Abdullah](https://github.com/abdullahrana97)
 - [Ahsan Abdullah](https://github.com/ahsan034844-oss)   
 
 
