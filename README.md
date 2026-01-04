@@ -1,4 +1,4 @@
-Dream Travel Agency Website
+Dream Travel Agency Website:
 A static travel agency website developed as an academic project using HTML5 and CSS3.
 The website presents travel services, packages, and contact information with a clean and user-friendly design.
 It is hosted live using GitHub Pages.
