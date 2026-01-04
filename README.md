@@ -192,7 +192,7 @@ Future Improvements
 - [Awais Aleem](https://github.com/iawaisaleem)  
 - [Ahmed Bilal](https://github.com/ahmedbilal) 
 - [Ahmad Raza](https://github.com/MuhammadAhmadRazaCS58)
-- [Rana Abdullah](https://abdullahrana97.github.io/Group6_Dream-Travel-Agency/)
+- [Rana Abdullah]()
 - [Ahsan Abdullah](https://github.com/ahsanabdullah)   
 
 
