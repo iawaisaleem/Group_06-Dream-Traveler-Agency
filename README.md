@@ -48,5 +48,6 @@ Excel Data and Charts:
 Excel was used to analyze travel-related data.
 Bar  chart were created and included in the presentation.
 These visualizations help represent trends and insights clearly.
-Excel link:
+Excel link:https://github.com/iawaisaleem/Group_06-Dream-Traveler-Agency/blob/main/website%20exell.xlsx
+
 
