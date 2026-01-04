@@ -59,7 +59,7 @@ All supporting documents are hosted externally and linked below.
 
 * 📊 **[Strategic Presentation (PPT)](https://github.com/iawaisaleem/Group_06-Dream-Traveler-Agency/blob/37ff3ebd8ca31393b990736c614e001b73ae0aab/website%20document.docx)**
 * 📄 **[Comprehensive Project Report](https://github.com/MuhammadAhmadRazaCS58/Group6-Dream-travel-agency-website-/raw/main/website%20document.docx)**
-* 📈 **[Data Analysis & Logistics](https://github.com/MuhammadAhmadRazaCS58/Group6-Dream-travel-agency-website-/raw/main/website%20exell.xlsx)**
+* 📈 **[Data Analysis & Logistics](https://github.com/iawaisaleem/Group_06-Dream-Traveler-Agency/blob/57be4013c0ce8e07edd42ddc5657226208854185/website%20exell.xlsx)**
 
 ---
 
