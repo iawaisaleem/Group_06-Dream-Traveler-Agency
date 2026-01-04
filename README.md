@@ -187,13 +187,14 @@ Future Improvements
 
 ---
 
-Group Members
+## Contributors
 
-* Awais Aleem (2025-CS-223)
-* Ahmed Bilal (2025-CS-207)
-* Ahmad Raza (2025-CS-228)
-* Rana Abdullah (2025-CS-196)
-* Ahsan Abdullah (2025-CS-213)
+- [Awais Aleem](https://github.com/iawaisaleem)  
+- [Ahmed Bilal](https://github.com/ahmedbilal) 
+- [Ahmad Raza](https://github.com/MuhammadAhmadRazaCS58)
+- [Rana Abdullah](https://github.com/ranaabdullah)
+- [Ahsan Abdullah](https://github.com/ahsanabdullah)   
+
 
 ---
 
