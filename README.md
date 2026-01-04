@@ -56,9 +56,9 @@ Project Documents (External Links)
 
 All supporting documents are hosted externally and linked below.
 
-* Project Report (Word): Add Word document link here
-* Project Data (Excel): Add Excel file link here
-* Project Presentation (PowerPoint): Add PowerPoint link here
+* Project Report (Word): 
+* Project Data (Excel): 
+* Project Presentation (PowerPoint): 
 
 ---
 
