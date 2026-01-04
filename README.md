@@ -52,22 +52,9 @@ Site Structure & Navigation
 
 ---
 
-Data Source (Excel)
-
-Excel data is used to:
-
-* Display prices of different tour packages
-* Generate comparison charts
-* Show calculated summaries
-
-Excel File (External Link):
-Add Excel link here
-
----
-
 Project Documents (External Links)
 
-All supporting documents are hosted externally and linked below for evaluation.
+All supporting documents are hosted externally and linked below.
 
 * Project Report (Word): Add Word document link here
 * Project Data (Excel): Add Excel file link here
@@ -87,7 +74,8 @@ Home Page
 * Navigation buttons for Gallery, Packages, Our Services, and Contact Us
 * Embedded Google Map
 
-Add screenshot here
+<img width="1840" height="871" alt="Screenshot 2026-01-04 152657" src="https://github.com/user-attachments/assets/4ad3f81a-4902-45b2-a9ba-4769dc3f25e8" />
+
 
 ---
 
@@ -97,19 +85,24 @@ The gallery displays travel destinations grouped by regions.
 All images include hover effects where images change on cursor movement.
 
 Asia Section
-Add screenshot here
+<img width="1845" height="763" alt="Screenshot 2026-01-04 153147" src="https://github.com/user-attachments/assets/51b58438-f2c7-4ae3-a3d0-89098b6a53ea" />
+
 
 Europe Section
-Add screenshot here
+<img width="1838" height="764" alt="Screenshot 2026-01-04 153246" src="https://github.com/user-attachments/assets/210616cf-fc39-4084-b0d2-ebdff8509e09" />
+
 
 Africa Section
-Add screenshot here
+<img width="1857" height="719" alt="Screenshot 2026-01-04 153327" src="https://github.com/user-attachments/assets/eba4a865-20af-448e-9815-fd8f9ed1279a" />
+
 
 North & South America Section
-Add screenshot here
+<img width="1833" height="720" alt="Screenshot 2026-01-04 153358" src="https://github.com/user-attachments/assets/b5d2b5f2-cd5c-476b-b3df-141572f55efc" />
+
 
 Australia & Oceania Section
-Add screenshot here
+<img width="1828" height="714" alt="Screenshot 2026-01-04 153452" src="https://github.com/user-attachments/assets/5274fc8a-eb3f-4dec-8388-05f0d633b2ce" />
+
 
 ---
 
@@ -119,7 +112,8 @@ Packages Page
 * Shows tour duration and pricing
 * “Book Now” button redirects to Contact Us
 
-Add screenshot here
+<img width="1877" height="859" alt="Screenshot 2026-01-04 153547" src="https://github.com/user-attachments/assets/1ce7bd68-bdc9-414a-a6ef-7ca5816645a8" />
+
 
 ---
 
@@ -128,7 +122,8 @@ Contact Us Page
 * User enters name, email, and message
 * Used to contact travel agents
 
-Add screenshot here
+<img width="1863" height="848" alt="Screenshot 2026-01-04 153921" src="https://github.com/user-attachments/assets/6f2962bb-6210-4fa4-aa28-6985b75b22db" />
+
 
 ---
 
@@ -137,7 +132,8 @@ Our Services Page
 * Displays agency services
 * Buttons redirect to relevant pages
 
-Add screenshot here
+<img width="1872" height="873" alt="Screenshot 2026-01-04 154201" src="https://github.com/user-attachments/assets/404d282b-9881-4639-9e3c-9fa947a470bd" />
+
 
 ---
 
