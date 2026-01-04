@@ -51,3 +51,6 @@ These visualizations help represent trends and insights clearly.
 Excel link:https://github.com/iawaisaleem/Group_06-Dream-Traveler-Agency/blob/main/website%20exell.xlsx
 
 
+Word:
+Word was used to explain structure of website.
+Word link:
