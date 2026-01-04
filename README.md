@@ -58,4 +58,7 @@ Word link:https://github.com/iawaisaleem/Group_06-Dream-Traveler-Agency/blob/mai
 
 Powerpoint:
 powerpoint was used to represnt website.
-powerpoint link:
+powerpoint link:https://github.com/iawaisaleem/Group_06-Dream-Traveler-Agency/blob/main/website%20presentation.pptx
+
+
+Website link:
