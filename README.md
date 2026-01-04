@@ -1,90 +1,213 @@
-Dream Travel Agency Website:
-A static travel agency website developed as an academic project using HTML5 and CSS3.
-The website presents travel services, packages, and contact information with a clean and user-friendly design.
-It is hosted live using GitHub Pages.
+
+# Dream Traveler Agency
+
+Dream Traveler Agency is a static travel agency website developed as an academic project for the AICT Lab course.
+The website promotes travel services, tour packages, and destinations using a clean, attractive, and well-structured design.
+
+---
+
+Project Overview
+
+This project focuses on front-end web development using HTML and CSS.
+It demonstrates proper website structure, UI design, navigation flow, and external data presentation using Excel charts.
+
+---
+
+Project Objectives & Scope
+
+Objectives
+
+* Design a professional travel agency website
+* Practice HTML page structure and CSS styling
+* Improve UI design and navigation skills
+
+Scope
+
+* Static website only (no backend)
+* Travel information and service presentation
+* Desktop-responsive layout
+* Educational project for learning purposes
+
+---
+
+Technologies Used
+
+* HTML5 – Website structure
+* CSS3 – Styling and layout
+* Microsoft Excel – Data analysis and charts
+* GitHub – Version control
+* GitHub Pages – Website deployment
+
+---
+
+Site Structure & Navigation
+
+| Page Name  | Purpose                               |
+| ---------- | ------------------------------------- |
+| Home       | Introduction to Dream Traveler Agency |
+| Packages   | Travel packages and pricing           |
+| Services   | Agency services                       |
+| Gallery    | Destination images by region          |
+| Contact Us | Contact form and details              |
+
+---
+
+Data Source (Excel)
+
+Excel data is used to:
+
+* Display prices of different tour packages
+* Generate comparison charts
+* Show calculated summaries
+
+Excel File (External Link):
+Add Excel link here
+
+---
+
+Project Documents (External Links)
+
+All supporting documents are hosted externally and linked below for evaluation.
+
+* Project Report (Word): Add Word document link here
+* Project Data (Excel): Add Excel file link here
+* Project Presentation (PowerPoint): Add PowerPoint link here
+
+---
+
+Screenshots
+
+The following screenshots demonstrate the layout, features, and functionality of the website, exactly as described in the project documentation.
+
+---
+
+Home Page
+
+* Introduction to Dream Traveler Agency
+* Navigation buttons for Gallery, Packages, Our Services, and Contact Us
+* Embedded Google Map
+
+Add screenshot here
+
+---
+
+Gallery Page
+
+The gallery displays travel destinations grouped by regions.
+All images include hover effects where images change on cursor movement.
+
+Asia Section
+Add screenshot here
+
+Europe Section
+Add screenshot here
+
+Africa Section
+Add screenshot here
+
+North & South America Section
+Add screenshot here
+
+Australia & Oceania Section
+Add screenshot here
+
+---
+
+Packages Page
+
+* Displays available travel packages
+* Shows tour duration and pricing
+* “Book Now” button redirects to Contact Us
+
+Add screenshot here
+
+---
+
+Contact Us Page
+
+* User enters name, email, and message
+* Used to contact travel agents
+
+Add screenshot here
+
+---
+
+Our Services Page
+
+* Displays agency services
+* Buttons redirect to relevant pages
+
+Add screenshot here
+
+---
+
+Excel Chart
+
+* Chart generated using Excel data
+* Displays price comparison of different tours
+
+<img width="388" height="226" alt="image" src="https://github.com/user-attachments/assets/906c581e-c268-43e3-8e47-b10337ee8f77" />
 
 
-Project Overview:
-The Dream Travel Agency website is designed to simulate a professional travel agency platform.
-It focuses on presenting travel information clearly while practicing front-end web development fundamentals and version control using GitHub.
 
+---
 
-Project Objectives:
-Design a responsive and visually appealing travel website.
-Practice HTML structure and CSS styling techniques.
-Organize multiple web pages with consistent design.
-Use GitHub for version control and deployment.
-Integrate Excel data and charts for analysis and presentation.
+Live Website
 
+GitHub Pages Link:
+[https://iawaisaleem.github.io/Group_06-Dream-Traveler-Agency/](https://iawaisaleem.github.io/Group_06-Dream-Traveler-Agency/)
 
-Technologies Used:
-HTML5 for website structure.
-CSS3 for styling and layout.
-Google Fonts (Poppins) for typography.
-Microsoft Excel for data analysis and charts.
-GitHub for version control.
-GitHub Pages for live website hosting.
+---
 
+GitHub Repository
 
-Project Structure:
-images folder (contains all website images)
-index,
-gallery,
-contact us,
-tour,
-services,
+Repository URL:
+[https://github.com/iawaisaleem/Group_06-Dream-Traveler-Agency](https://github.com/iawaisaleem/Group_06-Dream-Traveler-Agency)
 
+---
 
-Website Pages:
-Home Page: Hero section and website introduction.
-Packages Page: Travel packages and destinations.
-Services Page: Services offered by the agency.
-Gallery Page: Travel-related images.
-Contact Page: Contact details and Google Map integration.
+Version Control Details
 
+* Initial commit after website skeleton creation
+* Regular commits after major update
 
-Excel Data and Charts:
-Excel was used to analyze travel-related data.
-Bar  chart were created and included in the presentation.
-These visualizations help represent trends and insights clearly.
-Excel link:https://github.com/iawaisaleem/Group_06-Dream-Traveler-Agency/blob/main/website%20exell.xlsx
+---
 
+Learning Outcomes
 
-Word:
-Word was used to explain structure of website.
-Word link:https://github.com/iawaisaleem/Group_06-Dream-Traveler-Agency/blob/main/website%20document.docx
+* Understood website structure using HTML
+* Learned effective CSS styling techniques
+* Gained experience with layouts and color selection
+* Learned basics of responsive design
+* Used GitHub Pages for deployment
 
+---
 
-Powerpoint:
-powerpoint was used to represnt website.
-powerpoint link:https://github.com/iawaisaleem/Group_06-Dream-Traveler-Agency/blob/main/website%20presentation.pptx
+Future Improvements
 
+* Add JavaScript for interactivity
+* Integrate backend for booking and user data storage
 
-Website link: https://iawaisaleem.github.io/Group_06-Dream-Traveler-Agency/
+---
 
-Version Control and Commits:
-Initial commit after creating the basic website structure.
-Regular commits after each major design or content update.
-The commit history shows progressive and organized development.
+Group Members
 
+* Awais Aleem (2025-CS-223)
+* Ahmed Bilal (2025-CS-207)
+* Ahmad Raza (2025-CS-228)
+* Rana Abdullah (2025-CS-196)
+* Ahsan Abdullah (2025-CS-213)
 
-Additional Deliverables:
-PowerPoint presentation with website demo screenshots and Excel charts.
-Excel file containing data and visualizations.
-Screenshots used for presentation.
+---
 
+Course Information
 
-Future Enhancements:
-Add JavaScript for interactive features.
-Implement backend for booking and user data.
-Improve mobile responsiveness.
-Add dynamic content and animations.
+* Course: AICT Lab
+* Instructor: Ms. Ramsha Khalid
+* Submission Date: 05/01/2026
 
+---
 
-Authors:
-Group 06 – Dream Travel Agency Project.
-University Web Development Project.
+Declaration
 
-
-License:
-This project is created for educational purposes only.
+This project is developed solely for educational purposes 
