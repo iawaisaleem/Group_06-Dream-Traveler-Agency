@@ -58,7 +58,7 @@ All supporting documents are hosted externally and linked below.
 
 * Project Report (Word): https://github.com/iawaisaleem/Group_06-Dream-Traveler-Agency/blob/af50d74d5ee5719476c29c2fd5f3bdbd91a5bde3/website%20document.docx
 * Project Data (Excel): https://github.com/iawaisaleem/Group_06-Dream-Traveler-Agency/blob/08c10ac2ef11e01cace47352ff7344e0ba06784a/website%20exell.xlsx
-* Project Presentation (PowerPoint): 
+* Project Presentation (PowerPoint): https://github.com/iawaisaleem/Group_06-Dream-Traveler-Agency/blob/7388dd1a58694966dd62988d11636429091f55d7/website%20presentation.pptx
 
 ---
 
