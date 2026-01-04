@@ -57,7 +57,7 @@ Project Documents (External Links)
 All supporting documents are hosted externally and linked below.
 
 
-* 📊 **[Strategic Presentation (PPT)](https://github.com/MuhammadAhmadRazaCS58/Group6-Dream-travel-agency-website-/raw/main/website%20presentation.pptx)**
+* 📊 **[Strategic Presentation (PPT)](https://github.com/iawaisaleem/Group_06-Dream-Traveler-Agency/blob/37ff3ebd8ca31393b990736c614e001b73ae0aab/website%20document.docx)**
 * 📄 **[Comprehensive Project Report](https://github.com/MuhammadAhmadRazaCS58/Group6-Dream-travel-agency-website-/raw/main/website%20document.docx)**
 * 📈 **[Data Analysis & Logistics](https://github.com/MuhammadAhmadRazaCS58/Group6-Dream-travel-agency-website-/raw/main/website%20exell.xlsx)**
 
